@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1742859516 source:c:\users\admin\contacts\desktop\les séances d'encadrement\lundi 24 mars\projet_c\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<assert.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"Common.h"
+	"IBMOLS.h"
+
+1742858753 source:c:\users\admin\contacts\desktop\les séances d'encadrement\lundi 24 mars\projet_c\indicators.c
+	<stdlib.h>
+	<stdio.h>
+	<assert.h>
+	"indicators.h"
+
+1742848800 c:\users\admin\contacts\desktop\les séances d'encadrement\lundi 24 mars\projet_c\indicators.h
+	"Common.h"
+
+1742858864 c:\users\admin\contacts\desktop\les séances d'encadrement\lundi 24 mars\projet_c\common.h
+
+1742858814 c:\users\admin\contacts\desktop\les séances d'encadrement\lundi 24 mars\projet_c\ibmols.h
+	"Common.h"
+
